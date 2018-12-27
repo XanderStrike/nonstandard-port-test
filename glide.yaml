@@ -1,0 +1,3 @@
+package: github.com/xanderstrike/nonstandard-port-test
+import:
+- package: github.com/gorilla/mux
